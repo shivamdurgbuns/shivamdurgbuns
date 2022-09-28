@@ -55,25 +55,16 @@ I am a python developer and currently working at Red Hat. I like to solve proble
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Projects and Dev Stuffs:
 
-<b>⚡ Github Stats</b>
+### ⚡ Github Stats
 
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivamdurgbuns&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamdurgbuns&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamdurgbuns&hide=stars&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamdurgbuns&layout=compact&theme=radical)](https://github.com/shivamdurgbuns/github-readme-stats)
 
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
+### ☄️ Github Streaks
 
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamdurgbuns&hide_border=true" />
-</details>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=shivamdurgbuns&theme=highcontrast&fire=red&ring=red&currStreakLabel=red)](https://git.io/streak-stats) 
 
-#
-
-<div align="center">
 
 ### Show some ❤️ by starring some of the repositories! Happy to meet you :blush:
 
-</div>

@@ -58,8 +58,8 @@ I am a python developer and currently working at Red Hat. I like to solve proble
 
 ### ⚡ Github Stats
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamdurgbuns&hide=stars&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamdurgbuns&layout=compact&theme=radical)](https://github.com/shivamdurgbuns/github-readme-stats)
+![Shivam's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shivamdurgbuns&hide=stars&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivamdurgbuns&layout=compact&theme=radical)](https://github.com/shivamdurgbuns/github-readme-stats)
 
 ### ☄️ Github Streaks
 

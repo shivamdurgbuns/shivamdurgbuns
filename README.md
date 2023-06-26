@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/shivamdurgbuns)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/shivamdurgbuns)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=shivamdurgbuns.shivamdurgbuns&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp;
 
 I am a python developer and currently working at Red Hat. I like to solve problems and automate things. I have a passion to work on things that will affect the world in a better way. I like to learn new tech and skills for that. Apart from this I am good at cooking and having converstaions around food.
 

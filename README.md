@@ -56,15 +56,5 @@ I am a python developer and currently working at Red Hat. I like to solve proble
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-### ⚡ Github Stats
-
-![Shivam's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shivamdurgbuns&hide=stars&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivamdurgbuns&layout=compact&theme=radical)](https://github.com/shivamdurgbuns/github-readme-stats)
-
-### ☄️ Github Streaks
-
- [![GitHub Streak](https://streak-stats.demolab.com?user=shivamdurgbuns&theme=highcontrast&fire=red&ring=red&currStreakLabel=red)](https://git.io/streak-stats) 
-
-
 ### Show some ❤️ by starring some of the repositories! Happy to meet you :blush:
 

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/shivamdurgbuns/ansible-django-project/commit/a9ffcabf1b0f1b90afe338aea55c44ea77a57c71\"><strong>a</strong>9ffcabf1b0f1b90afe338aea55c44ea77a57c71</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/9d015dff93df3995a7cc5bd15d459b91147c5a4b\">9d015df</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"adding\".",
+    "body": "My favorite commit message words are:\n\n1. adding (used 93 times)\n2. signed-off-by: (used 92 times)\n3. shivam (used 92 times)\n4. durgbuns (used 92 times)\n5. <sdurgbun@redhat.com> (used 80 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/0bac50524b276d5b600cf0ca78150adf34b85e1a\">0bac505</a>\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/5fdc17a82df410da66770c2464b5b2673e6ffc95\">5fdc17a</a>\n- <a href=\"https://github.com/shivamdurgbuns/gogitbook/commit/2e679ee0ccf20b83d29ddff5955113cd7db6a08e\">2e679ee</a>\n- <a href=\"https://github.com/shivamdurgbuns/gogitbook/commit/b3f5ae5f1a49b4855fc02d1dc794685a88763a9f\">b3f5ae5</a>\n- <a href=\"https://github.com/shivamdurgbuns/gogitbook/commit/6191ba4d267390e262fc06b177ab621bc2073161\">6191ba4</a>\n- <a href=\"https://github.com/shivamdurgbuns/gogitbook/commit/2d5a077fb3716c58fceb715371ec38169e9133ef\">2d5a077</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/k8sgpt-ai/k8sgpt/issues/180\">#180</a>: feature: add --auth-string flag to auth",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/ansible/ansible/pull/78794\">#78794</a>: Adding two new os.path filters and its docs",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "pr-collaboration-10",
+    "tier": 2,
+    "desc": "I have participated in pull requests with 10 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/red-hat-storage/ocs-ci/pull/11623\">#11623</a>: Adding test for test/OCS-5963",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-10.png"
+  },
+  {
+    "id": "pr-collaboration-15",
+    "tier": 3,
+    "desc": "I have participated in pull requests with 15 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/red-hat-storage/ocs-ci/pull/13795\">#13795</a>: Skipping test for now to debugg the failures",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-15.png"
+  },
+  {
+    "id": "pr-collaboration-20",
+    "tier": 4,
+    "desc": "I have participated in pull requests with 20 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/red-hat-storage/ocs-ci/pull/13795\">#13795</a>: Skipping test for now to debugg the failures",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-20.png"
+  },
+  {
+    "id": "pr-collaboration-25",
+    "tier": 5,
+    "desc": "I have participated in pull requests with 25 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/red-hat-storage/ocs-ci/pull/13795\">#13795</a>: Skipping test for now to debugg the failures",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-25.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/c0d331c36b39cee1be0802f4ce093c93afe02b21\">c0d331c</a>\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/d91fd054639c1c7df2a35ba495425d155824a595\">d91fd05</a>\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/9d015dff93df3995a7cc5bd15d459b91147c5a4b\">9d015df</a>\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/ed5bcb58e967523707049f5214026ec1efb0c441\">ed5bcb5</a>\n- <a href=\"https://github.com/shivamdurgbuns/shivamdurgbuns/commit/8825cd809030d4d210f3e8b7fda3630fb00d4b1b\">8825cd8</a>\n- <a href=\"https://github.com/shivamdurgbuns/GettingStarted-GO/commit/7f543c7fd14d7c35dbdb74c72213330596125171\">7f543c7</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/shivamdurgbuns/shivamdurgbuns/commit/829271609efc7dc9f2dd791fab290a18333e9edc\">8292716</a>\n- <a href=\"https://github.com/shivamdurgbuns/shivamdurgbuns/commit/06d736a2d497392bada7e7f159dcb85701a04de6\">06d736a</a>\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/5261bc67772849e9a834c891cbbae7903b123e65\">5261bc6</a>\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/dcef2f639a61877f007c7dff42c6c3f774560174\">dcef2f6</a>\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/c308796a59f45e9a8b8d76c233622a7e7dea8809\">c308796</a>\n- <a href=\"https://github.com/shivamdurgbuns/cephci/commit/4473074c5c82b7daeb219053d3c70c3377a929ab\">4473074</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/shivamdurgbuns/gogitbook/commit/53129cb4d32d3054f4baec3cdc3da129d686fcda\">53129cb</a>\n- <a href=\"https://github.com/shivamdurgbuns/gogitbook/commit/453ecaea6036099c84ba9c6d2514335ac83f84d1\">453ecae</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]

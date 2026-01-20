@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"adding\".",
-    "body": "My favorite commit message words are:\n\n1. adding (used 97 times)\n2. signed-off-by: (used 92 times)\n3. shivam (used 92 times)\n4. durgbuns (used 92 times)\n5. <sdurgbun@redhat.com> (used 80 times)",
+    "body": "My favorite commit message words are:\n\n1. adding (used 92 times)\n2. signed-off-by: (used 82 times)\n3. shivam (used 82 times)\n4. durgbuns (used 82 times)\n5. <sdurgbun@redhat.com> (used 80 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -84,13 +84,6 @@
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-25.png"
   },
   {
-    "id": "public-keys-1",
-    "tier": 1,
-    "desc": "I have one public key",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
-  },
-  {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
@@ -117,5 +110,12 @@
     "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/shivamdurgbuns/exercism.io/commit/e8c945a13f180a22724adc918d85d291a43cc06d\">e8c945a</a>\n- <a href=\"https://github.com/shivamdurgbuns/exercism.io/commit/40a5e35f5ec99ae80520af51f170972c78f918bc\">40a5e35</a>\n- <a href=\"https://github.com/shivamdurgbuns/exercism.io/commit/5c29601edab99d423a66428e777d9b775d5e0f78\">5c29601</a>\n- <a href=\"https://github.com/shivamdurgbuns/exercism.io/commit/5254b271359a1722f4773a8704455dbb319c3734\">5254b27</a>\n- <a href=\"https://github.com/shivamdurgbuns/exercism.io/commit/8269176c3aefae1c763d5b918813a62a4bbb862f\">8269176</a>\n- <a href=\"https://github.com/shivamdurgbuns/exercism.io/commit/06060048f47ef8461c4d16a4b6ffa0db79f70395\">0606004</a>",
     "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
   }
 ]

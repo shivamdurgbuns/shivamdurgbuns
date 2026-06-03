@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"adding\".",
-    "body": "My favorite commit message words are:\n\n1. adding (used 92 times)\n2. signed-off-by: (used 86 times)\n3. shivam (used 86 times)\n4. durgbuns (used 86 times)\n5. <sdurgbun@redhat.com> (used 84 times)",
+    "body": "My favorite commit message words are:\n\n1. adding (used 94 times)\n2. signed-off-by: (used 86 times)\n3. shivam (used 86 times)\n4. durgbuns (used 86 times)\n5. <sdurgbun@redhat.com> (used 84 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci-server/commit/27ee16156a6699eb12025b7e549bc127a4baa706\">27ee161</a>\n- <a href=\"https://github.com/shivamdurgbuns/shivamdurgbuns/commit/829271609efc7dc9f2dd791fab290a18333e9edc\">8292716</a>\n- <a href=\"https://github.com/shivamdurgbuns/shivamdurgbuns/commit/06d736a2d497392bada7e7f159dcb85701a04de6\">06d736a</a>\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/5261bc67772849e9a834c891cbbae7903b123e65\">5261bc6</a>\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/dcef2f639a61877f007c7dff42c6c3f774560174\">dcef2f6</a>\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/c308796a59f45e9a8b8d76c233622a7e7dea8809\">c308796</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/cfa5523a9daf205dbd75d1f688bc9cf9863e59fa\">cfa5523</a>\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci-server/commit/27ee16156a6699eb12025b7e549bc127a4baa706\">27ee161</a>\n- <a href=\"https://github.com/shivamdurgbuns/shivamdurgbuns/commit/829271609efc7dc9f2dd791fab290a18333e9edc\">8292716</a>\n- <a href=\"https://github.com/shivamdurgbuns/shivamdurgbuns/commit/06d736a2d497392bada7e7f159dcb85701a04de6\">06d736a</a>\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/5261bc67772849e9a834c891cbbae7903b123e65\">5261bc6</a>\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/dcef2f639a61877f007c7dff42c6c3f774560174\">dcef2f6</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {

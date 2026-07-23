@@ -1,12 +1,5 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/shivamdurgbuns/ansible-django-project/commit/a9ffcabf1b0f1b90afe338aea55c44ea77a57c71\"><strong>a</strong>9ffcabf1b0f1b90afe338aea55c44ea77a57c71</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
@@ -14,32 +7,11 @@
     "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
-    "id": "epic-commit",
-    "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/9d015dff93df3995a7cc5bd15d459b91147c5a4b\">9d015df</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"adding\".",
-    "body": "My favorite commit message words are:\n\n1. adding (used 96 times)\n2. signed-off-by: (used 94 times)\n3. shivam (used 94 times)\n4. durgbuns (used 94 times)\n5. <sdurgbun@redhat.com> (used 92 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
-  },
-  {
-    "id": "pi-day",
-    "tier": 0,
-    "desc": "Happy March 14th! I committed on a Pi Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/0bac50524b276d5b600cf0ca78150adf34b85e1a\">0bac505</a>\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/5fdc17a82df410da66770c2464b5b2673e6ffc95\">5fdc17a</a>\n- <a href=\"https://github.com/shivamdurgbuns/gogitbook/commit/2e679ee0ccf20b83d29ddff5955113cd7db6a08e\">2e679ee</a>\n- <a href=\"https://github.com/shivamdurgbuns/gogitbook/commit/b3f5ae5f1a49b4855fc02d1dc794685a88763a9f\">b3f5ae5</a>\n- <a href=\"https://github.com/shivamdurgbuns/gogitbook/commit/6191ba4d267390e262fc06b177ab621bc2073161\">6191ba4</a>\n- <a href=\"https://github.com/shivamdurgbuns/gogitbook/commit/2d5a077fb3716c58fceb715371ec38169e9133ef\">2d5a077</a>",
-    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   },
   {
     "id": "polite-coder",
@@ -82,34 +54,6 @@
     "desc": "I have participated in pull requests with 25 or more people",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/red-hat-storage/ocs-ci/pull/13795\">#13795</a>: Skipping test for now to debugg the failures",
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-25.png"
-  },
-  {
-    "id": "sleepy-coder",
-    "tier": 0,
-    "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/c0d331c36b39cee1be0802f4ce093c93afe02b21\">c0d331c</a>\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/d91fd054639c1c7df2a35ba495425d155824a595\">d91fd05</a>\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/9d015dff93df3995a7cc5bd15d459b91147c5a4b\">9d015df</a>\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/ed5bcb58e967523707049f5214026ec1efb0c441\">ed5bcb5</a>\n- <a href=\"https://github.com/shivamdurgbuns/shivamdurgbuns/commit/8825cd809030d4d210f3e8b7fda3630fb00d4b1b\">8825cd8</a>\n- <a href=\"https://github.com/shivamdurgbuns/GettingStarted-GO/commit/7f543c7fd14d7c35dbdb74c72213330596125171\">7f543c7</a>",
-    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
-  },
-  {
-    "id": "morning-commits",
-    "tier": 0,
-    "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/cfa5523a9daf205dbd75d1f688bc9cf9863e59fa\">cfa5523</a>\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci-server/commit/27ee16156a6699eb12025b7e549bc127a4baa706\">27ee161</a>\n- <a href=\"https://github.com/shivamdurgbuns/shivamdurgbuns/commit/829271609efc7dc9f2dd791fab290a18333e9edc\">8292716</a>\n- <a href=\"https://github.com/shivamdurgbuns/shivamdurgbuns/commit/06d736a2d497392bada7e7f159dcb85701a04de6\">06d736a</a>\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/5261bc67772849e9a834c891cbbae7903b123e65\">5261bc6</a>\n- <a href=\"https://github.com/shivamdurgbuns/ocs-ci/commit/dcef2f639a61877f007c7dff42c6c3f774560174\">dcef2f6</a>",
-    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
-  },
-  {
-    "id": "evening-commits",
-    "tier": 0,
-    "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/shivamdurgbuns/gogitbook/commit/53129cb4d32d3054f4baec3cdc3da129d686fcda\">53129cb</a>\n- <a href=\"https://github.com/shivamdurgbuns/gogitbook/commit/453ecaea6036099c84ba9c6d2514335ac83f84d1\">453ecae</a>",
-    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
-  },
-  {
-    "id": "science-fiction-day",
-    "tier": 0,
-    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/shivamdurgbuns/exercism.io/commit/e8c945a13f180a22724adc918d85d291a43cc06d\">e8c945a</a>\n- <a href=\"https://github.com/shivamdurgbuns/exercism.io/commit/40a5e35f5ec99ae80520af51f170972c78f918bc\">40a5e35</a>\n- <a href=\"https://github.com/shivamdurgbuns/exercism.io/commit/5c29601edab99d423a66428e777d9b775d5e0f78\">5c29601</a>\n- <a href=\"https://github.com/shivamdurgbuns/exercism.io/commit/5254b271359a1722f4773a8704455dbb319c3734\">5254b27</a>\n- <a href=\"https://github.com/shivamdurgbuns/exercism.io/commit/8269176c3aefae1c763d5b918813a62a4bbb862f\">8269176</a>\n- <a href=\"https://github.com/shivamdurgbuns/exercism.io/commit/06060048f47ef8461c4d16a4b6ffa0db79f70395\">0606004</a>",
-    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   },
   {
     "id": "public-keys-4",
